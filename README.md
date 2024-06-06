@@ -37,5 +37,5 @@ Users should be able to:
 ## Author
 
 - Website - [Isaac Makinde](https://github.com/Oluwa-Laughter)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Oluwa-Laughter)
+- Frontend Mentor - [Oluwa-Laughter](https://www.frontendmentor.io/profile/Oluwa-Laughter)
 - Twitter - [@isaacmakinde\_](https://www.twitter.com/isaacmakinde_)
