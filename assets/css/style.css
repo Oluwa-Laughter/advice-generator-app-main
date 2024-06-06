@@ -1,0 +1,44 @@
+:root {
+  --LightCyan: hsl(193, 38%, 86%);
+  --NeonGreen: hsl(150, 100%, 66%);
+  --GrayishBlue: hsl(217, 19%, 38%);
+  --DarkGrayishBlue: hsl(217, 19%, 24%);
+  --DarkBlue: hsl(218, 23%, 16%);
+}
+
+.advise-quotes-id-container,
+.advise-quotes-id {
+  font-size: 1.4rem;
+  color: var(--NeonGreen);
+  text-align: center;
+}
+
+.quote-container,
+.advise-quotes {
+  font-size: 2.8rem;
+  text-align: center;
+  color: var(--LightCyan);
+}
+
+.dice-button {
+  background-color: var(--NeonGreen);
+  position: absolute;
+  bottom: -11%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 1.5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transform: all 0.3s;
+}
+
+.divider {
+  padding: 2.4rem 4.8rem;
+}
+
+.divider-img {
+  width: 100%;
+}
